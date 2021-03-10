@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# Open Source 101
+##### An intuitive guide for starters in Open Source
 
-You can use the [editor on GitHub](https://github.com/imabp/OpenSource101/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for visiting the resource. 
+I have put up all the links used in the slides here during my Live Session. <br/>
+I am also coming up with my youtube channel, do subscribe :) :
+http://bit.ly/ytabir
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Resources for learning GitHub:
 
-# Header 1
-## Header 2
-### Header 3
+Hands on Lab: https://lab.github.com/
+<br/>
+Youtube Video: http://bit.ly/gitfreecodecamp
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### Beginner Friendly Issues:
+<b>Find Beginner friendly issues at:</b>
+<br/>
+Up For Grabs,  https://up-for-grabs.net/<br/>
+24 Pull Requests, https://24pullrequests.com/<br/>
+Hacktoberfest, https://hacktoberfest.digitalocean.com/<br/>
+First Timers Only, https://firsttimersonly.com/<br/>
+Your First PR, http://yourfirstpr.github.io/<br/>
+CodeTriage, https://codetriage.com/<br/>
+Open Source Friday https://opensourcefriday.com/<br/>
+<br/>
+<b> Label Based Search </b><br/>
+Good First issue:<br/>
+https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22<br/>
+Easy Issue:<br/>
+https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Aeasy<br/>
+First Timer Issue:<br/>
+https://github.com/search?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only<br/>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Student Programs
+https://github.com/imabp/open-Source-Programs
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Newsletter Service 
+https://abirpal.netlify.com/subscribe
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imabp/OpenSource101/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Must Connect to:<br/>
+https://www.linkedin.com/in/adityaoberai1/<br/>
+https://www.linkedin.com/in/joshua-poddoku/<br/>
+https://www.linkedin.com/in/eddiejaoude/<br/>
+https://www.linkedin.com/in/siddharth-dayalwal/<br/>
+https://www.linkedin.com/in/sudiptoghosh11/<br/>
+https://www.linkedin.com/in/praveentech/<br/>
+https://www.linkedin.com/in/ekansh-gupta/
